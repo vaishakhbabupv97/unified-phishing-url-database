@@ -12,7 +12,8 @@ FEEDS = {
     "urlabuse": "https://urlabuse.com/public/phishing_recent.txt",
     "urlhaus": "https://urlhaus.abuse.ch/downloads/text/",
     "phishing_database_active": "https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/master/phishing-links-ACTIVE.txt",
-    "phishing_army": "https://phishing.army/download/phishing_army_blocklist_extended.txt"
+    "phishing_army": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
+    "cyberhost": "https://lists.cyberhost.uk/malware_domains_only.txt"
     
 }
 
