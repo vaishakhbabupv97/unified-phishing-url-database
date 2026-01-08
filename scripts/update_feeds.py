@@ -12,6 +12,7 @@ FEEDS = {
     "urlabuse": "https://urlabuse.com/public/phishing_recent.txt",
     "urlhaus": "https://urlhaus.abuse.ch/downloads/text/",
     "phishing_database_active": "https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/master/phishing-links-ACTIVE.txt"
+    "https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/master/phishing-links-ACTIVE.txt"
 }
 
 TIMEOUT = 30
